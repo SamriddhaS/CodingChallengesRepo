@@ -1,6 +1,5 @@
 
 fun main(){
-
     margeSortedArray(intArrayOf(1,3,6,7,99), intArrayOf(1,2,22,44)).forEach {
         println(it)
     }
